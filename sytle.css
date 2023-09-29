@@ -1,0 +1,14 @@
+footer {
+background-color: rgb(69, 69, 222);
+font-style:italic;
+font-family: 'Courier New', Courier, monospace;
+text-align-last: auto;
+font-weight: 400;
+font-size-adjust:inherit;
+}
+
+header{
+
+    background-color: gray;
+    display: flex;
+}
