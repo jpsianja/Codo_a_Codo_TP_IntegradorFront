@@ -47,11 +47,7 @@ header{
   display: flexbox;
   margin-bottom: 15%;
 }
-#imagen_texto{
 
-padding-top: 0%;
-
-}
 form {
 margin-bottom: auto;
 }
@@ -89,6 +85,7 @@ margin-bottom: auto;
     color: white;
     font-weight: 200;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10%;
 
   }
   @media screen and (max-width: 640px) {
@@ -100,14 +97,4 @@ margin-bottom: auto;
 
         font-size: 40px;}
      }
-      /* .carrusel {
-        transform: translateY(-50%) translateX(-10%);
-        top: auto;
-        position: relative;
-        color: #aa5c5c;
-      }  */
-
-      .btn text-white border {
-        border-bottom-style: groove;
-       border-color: aquamarine;
-      }
+     
